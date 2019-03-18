@@ -1,0 +1,9 @@
+{
+  "name": "csv_json_converter",
+  "version": "1.0.0",
+  "description": "Convert a csv file to a json file and save it",
+  "main": "index.js",
+  "author": "Laura Veee",
+  "license": "MIT",
+  "private": false
+}
